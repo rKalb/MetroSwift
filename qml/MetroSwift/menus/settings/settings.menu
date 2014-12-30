@@ -1,0 +1,26 @@
+settings\next_option.png
+settings\back.png
+settings\previous_option.png
+settings\nextprev.png
+settings\next_setting.png
+settings\blank.png
+settings\previous_setting.png
+
+Next Option
+Back
+Previous Option
+Audio +/-
+Next Setting
+
+Previous Setting
+
+settings\settings_left.qml
+settings\settings_right.qml
+
+command
+main.menu
+command
+command
+command
+command
+command

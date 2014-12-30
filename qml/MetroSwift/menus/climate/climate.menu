@@ -1,0 +1,26 @@
+climate\fan_up.png
+climate\back.png
+climate\fan.png
+climate\nextprev.png
+climate\fan_both.png
+climate\defrost.png
+climate\ac.png
+
+Fan +
+Back
+Fan -
+Temp +/-
+Fan Mode
+Defrost
+A/C
+
+climate\climate_left.qml
+climate\climate_right.qml
+
+command
+main.menu
+command
+command
+command
+command
+command

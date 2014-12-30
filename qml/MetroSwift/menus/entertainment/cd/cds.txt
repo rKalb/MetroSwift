@@ -1,0 +1,5 @@
+qml\MetroSwift\menus\entertainment\cd\naf\naf.txt
+qml\MetroSwift\menus\entertainment\cd\mas\mas.txt
+qml\MetroSwift\menus\entertainment\cd\jt\jt.txt
+qml\MetroSwift\menus\entertainment\cd\id\id.txt
+qml\MetroSwift\menus\entertainment\cd\rhcp\rhcp.txt

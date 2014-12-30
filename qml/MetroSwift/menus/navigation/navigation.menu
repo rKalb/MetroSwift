@@ -1,0 +1,26 @@
+navigation\search.png
+navigation\back.png
+navigation\navigation.png
+navigation\nextprev.png
+navigation\list.png
+navigation\gas.png
+navigation\settings.png
+
+Search
+Back
+Map
+Next/Previous
+Stored Locations
+POIs
+Navigation Settings
+
+navigation\navigation_left.qml
+navigation\navigation_right.qml
+
+command
+main.menu
+command
+command
+command
+command
+command

@@ -1,0 +1,26 @@
+driving\reset.png
+driving\back.png
+driving\reset.png
+climate\nextprev.png
+driving\driving.png
+driving\blank.png
+driving\settings.png
+
+Reset Trip Score
+Back
+Reset Avg. MPG
+Audio +/-
+Car Info
+
+More Settings
+
+driving\driving_left.qml
+driving\driving_right.qml
+
+command
+main.menu
+command
+command
+command
+command
+settings\settings.menu

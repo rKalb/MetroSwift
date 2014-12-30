@@ -1,0 +1,26 @@
+entertainment\mode\radio.png
+entertainment\mode\back.png
+entertainment\mode\cd.png
+entertainment\mode\nextprev.png
+entertainment\mode\entertainment.png
+entertainment\mode\entertainment.png
+entertainment\mode\settings.png
+
+Radio
+Back
+CD
+Audio +/-
+Web Radio
+Aux
+Ent. Settings
+
+entertainment\mode\mode_left.qml
+entertainment\mode\mode_right.qml
+
+command
+entertainment\entertainment.menu
+command
+command
+command
+command
+command

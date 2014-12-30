@@ -1,0 +1,2 @@
+qml\MetroSwift\menus\entertainment\radio\kduc\kduc.txt|104.7 - KDUC
+qml\MetroSwift\menus\entertainment\radio\clue\clue.txt|106.3 - Clue

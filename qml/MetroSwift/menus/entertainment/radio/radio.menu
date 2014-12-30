@@ -1,0 +1,26 @@
+entertainment\radio\radio.png
+entertainment\radio\back.png
+entertainment\radio\entertainment.png
+entertainment\radio\nextprev.png
+entertainment\radio\entertainment.png
+entertainment\radio\list.png
+entertainment\radio\settings.png
+
+Mode Select
+Back
+AM/FM
+Preset +/-
+Scan
+Preset List
+Entertainment Settings
+
+entertainment\radio\radio_left.qml
+entertainment\radio\radio_right.qml
+
+entertainment\mode\mode.menu
+main.menu
+command
+command
+command
+command
+command

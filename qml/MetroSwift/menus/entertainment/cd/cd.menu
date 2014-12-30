@@ -1,0 +1,26 @@
+entertainment\cd\cd.png
+entertainment\cd\back.png
+entertainment\cd\eject.png
+entertainment\cd\nextprev.png
+entertainment\cd\playpause.png
+entertainment\cd\list.png
+entertainment\cd\settings.png
+
+Mode Select
+Back
+Eject
+Track +/-
+Play/Pause
+Song List
+Ent. Settings
+
+entertainment\cd\cd_left.qml
+entertainment\cd\cd_right.qml
+
+entertainment\mode\mode.menu
+main.menu
+command
+command
+command
+command
+command
